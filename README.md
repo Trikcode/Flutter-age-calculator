@@ -1,5 +1,4 @@
 # flutter_age_calculator
 
-A new Flutter project.
-
+A Flutter package to calculate age from date of birth.
 Designed by Nobert Patrick
